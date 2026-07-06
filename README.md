@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Danny, a grade 12 student passionate about programming and the evolving world of technology! I love learning about data and artificial intelligence.<br><br>🔭 I’m currently working on a financial risk optimization app and a hackathon management app<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning AI Dev<br>⚡ Fun fact - I have been programming for more than 5 years!
+Hey, I'm Danny, an incoming Waterloo Math and Laurier BBA Double Degree student passionate about programming and the evolving world of technology! I love learning about data and artificial intelligence.<br><br>🔭 I’m currently working on a financial risk optimization app and a hackathon management app<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning AI Dev<br>⚡ Fun fact - I have been programming for more than 5 years!
 
 
 ## 🌐 Socials:
